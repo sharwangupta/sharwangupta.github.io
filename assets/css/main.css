@@ -1,0 +1,57 @@
+body{
+	width: 100%;
+	height: 100%;
+	background: url();
+	overflow-x: hidden;
+}
+
+.nav{
+	background-color: rgb(255, 255, 255);
+}
+
+.logo{
+	padding: 25px;
+	width: 20%;
+	height: 40px;
+	float: left;
+	font-family: Flamenco;
+	font-size: 24px;
+	font-weight: 400;
+}
+.nav-menu{
+	padding: 25px;
+	width: 65%;
+	text-align: right;
+	height: 40px;
+	display: inline-block;
+}
+
+.nav-menu li{
+	display: inline-block;
+	width: 10%;
+}
+
+section{
+	width: 100%;
+}
+.top{
+	/*position: absolute;*/
+}
+.top img{
+	width: 100%;
+	height: 360px;
+}
+.bottom{
+    background: #f4f4f4;
+	width: 100%;
+	text-align: center;
+	/*padding: 150px 80px 50px 80px;*/
+}
+.address{
+	padding: 0px 80px 100px 80px;
+	color: white;
+	background-image: radial-gradient(circle closest-corner at 50% 50%, rgba(255, 255, 255, 0), #f4f4f4), linear-gradient(#f4f4f4, rgba(255, 255, 255, 0)), url('../images/map.jpg');
+	background-position: 0% 0%, 0% 0%, 50% 50%;
+	background-size: 100%;
+    height: 350px;
+}
