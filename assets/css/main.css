@@ -32,7 +32,7 @@ body{
 	/*padding: 25px;*/
 	width: 60%;
 	text-align: right;
-	height: 40px;
+	height: 70px;
 	display: inline-block;
 	margin-left: 15%;
 }
@@ -42,10 +42,10 @@ body{
 	width: 13%;
 	/*background: rgb(106, 185, 176);*/
 	padding: 25px 25px 0 0;
-	height: 45px;
+	height: 70px;
 }
-.nav-menu li .active{
-	border-top: 2px solid rgb(170, 67, 67);
+.nav-menu li:hover{
+	border-top: 2px solid rgb(213, 114, 114);
 }
 
 section{
