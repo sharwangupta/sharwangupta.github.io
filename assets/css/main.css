@@ -128,7 +128,7 @@ section{
 .expertise .product-label{
 	position: absolute;
 	width: 20%;
-	margin-top: 250px;
+	/*margin-top: 250px;*/
 }
 .expertise .product li p{
 	text-align: left;
